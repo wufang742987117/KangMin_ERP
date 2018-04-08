@@ -1,4 +1,4 @@
-<%@ page language="java" contentType="text/html; charset=UTF-8"
+﻿<%@ page language="java" contentType="text/html; charset=UTF-8"
     pageEncoding="UTF-8"%>
     <%
 	String path = request.getContextPath();
@@ -10,7 +10,7 @@
 <head>
 <base href="<%=basePath%>">
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>订单日志管理</title>
+<title>订单日志管理111111</title>
 	<link rel="stylesheet" href="<%=basePath%>res/layui/css/layui.css" media="all">
 	<script src="<%=basePath%>res/js/jquery-2.1.3.min.js" type="text/javascript"></script>
 	<script src="<%=basePath%>res/layui/layui.js" charset="utf-8"></script>
